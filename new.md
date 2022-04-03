@@ -1,1 +1,1 @@
-[My personal repository](https://sjy-dlut.github.io/sjy-dlut/)
+[My personal repository](https://github.com/sjy-dlut)
